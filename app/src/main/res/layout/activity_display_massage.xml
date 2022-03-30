@@ -7,7 +7,7 @@
     tools:context=".Display_massage">
 
     <TextView
-        android:id="@+id/tv_display"
+        android:id="@+id/tv_displayMessage"
         android:layout_width="281dp"
         android:layout_height="50dp"
         android:layout_marginTop="32dp"

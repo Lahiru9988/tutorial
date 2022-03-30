@@ -9,7 +9,8 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String EXTRA_MESSAGE = "com.example.myriads.MESSAGE";
+    public static final String EXTRA_MESSAGE = "com.example.myriads.MESSAGE";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
