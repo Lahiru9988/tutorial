@@ -20,7 +20,7 @@ public class Display_massage extends AppCompatActivity {
 
 
       // Capture the layout's TextView and set the string as its text
-        TextView textView = findViewById(R.id.tv_displayMessage);
+        TextView textView = findViewById(R.id.tv_displaymassage);
         textView.setText(message);
 
 

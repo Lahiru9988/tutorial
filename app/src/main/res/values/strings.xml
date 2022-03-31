@@ -2,4 +2,5 @@
     <string name="app_name">tutorial</string>
     <string name="et_massage">Enter massage</string>
     <string name="btn_send">SEND</string>
+    <string name="sendMassage">sendMassage</string>
 </resources>
